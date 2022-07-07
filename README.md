@@ -1,2 +1,0 @@
-# Wine_Quality_Prediction
-Wine_Quality_Prediction_&amp;_Validation
